@@ -5,3 +5,4 @@ Becker (Data Mining and Visualization, Silicon Graphics). The key task is to det
 a person makes over $50K a year using techniques of Naive Bayes' Classifier.
 
 adult.csv contains the dataset required to solve the task.
+The PDF document contains the final report written by Devcharan K.
